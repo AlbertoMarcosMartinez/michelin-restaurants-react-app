@@ -1,0 +1,130 @@
+{
+    "Restaurantes": [
+    {
+      "nombre": "Raíces",
+      "ciudad": "Talavera de la Reina",
+      "provincia": "Toledo",
+      "comunidad_autonoma": "Castilla-La Mancha",
+      "dirección": "Ronda de Canillo 3, 45600, España",
+      "teléfono": "+34 671 42 21 15",
+      "fecha_apertura": "2020",
+      "chef_ejecutivo": "Carlos Maldonado",
+      "precio_medio_menu": "€€€",
+      "numero_estrellas": 2,
+      "fechas_obtencion_estrellas_michelin": {
+        "primera": "2022",
+        "segunda": "2023",
+        "tercera": ""
+      },
+      "fecha_obtencion_soles_repsol": {
+        "primero": "05/2023",
+        "segundo": "09/2023",
+        "tercero": "02/2024"
+      },
+      "numero_soles_repsol": 3,
+      "plato_mas_representativo": "Pulpo a la brasa con puré de patata ahumado",
+      "otros_galardones_gastronomicos": ["Premio al Mejor Restaurante de la Región 2021", "Reconocimiento a la Innovación Gastronómica 2023"]
+    },
+    {
+      "nombre": "Casa Solla",
+      "ciudad": "Poio",
+      "provincia": "Pontevedra",
+      "comunidad_autonoma": "Galicia",
+      "dirección": "Av. Sineiro, 7, 36995 Poio, Pontevedra, España",
+      "teléfono": "+34 986 87 24 03",
+      "fecha_apertura": "1957",
+      "chef_ejecutivo": "Pepe Solla",
+      "precio_medio_menu": "€€€€",
+      "numero_estrellas": 1,
+      "fechas_obtencion_estrellas_michelin": {
+        "primera": "1980",
+        "segunda": "",
+        "tercera": ""
+      },
+      "fecha_obtencion_soles_repsol": {
+        "primero": "1983",
+        "segundo": "1986",
+        "tercero": "1990"
+      },
+      "numero_soles_repsol": 3,
+      "plato_mas_representativo": "Merluza de pincho, alga y verduras",
+      "otros_galardones_gastronomicos": ["Mejor Restaurante de Galicia 2019", "Premio Nacional de Gastronomía 2017"]
+    },
+    {
+      "nombre": "Martín Berasategui",
+      "ciudad": "Lasarte-Oria",
+      "provincia": "Guipúzcoa",
+      "comunidad_autonoma": "País Vasco",
+      "dirección": "Loidi Kalea, 4, 20160 Lasarte-Oria, Guipúzcoa, España",
+      "teléfono": "+34 943 36 64 71",
+      "fecha_apertura": "1993",
+      "chef_ejecutivo": "Martín Berasategui",
+      "precio_medio_menu": "€€€€",
+      "numero_estrellas": 3,
+      "fechas_obtencion_estrellas_michelin": {
+        "primera": "1993",
+        "segunda": "1997",
+        "tercera": "2001"
+      },
+      "fecha_obtencion_soles_repsol": {
+        "primero": "1995",
+        "segundo": "1998",
+        "tercero": "2002"
+      },
+      "numero_soles_repsol": 3,
+      "plato_mas_representativo": "Carrillera de ternera asada a baja temperatura",
+      "otros_galardones_gastronomicos": ["Mejor Restaurante de España 2012", "Mejor Restaurante del Mundo 2018"]
+    },
+    {
+      "nombre": "Disfrutar",
+      "ciudad": "Barcelona",
+      "provincia": "Barcelona",
+      "comunidad_autonoma": "Cataluña",
+      "dirección": "Carrer de Villarroel, 163, 08036 Barcelona, España",
+      "teléfono": "+34 933 48 68 96",
+      "fecha_apertura": "2014",
+      "chef_ejecutivo": "Mateu Casañas, Oriol Castro, Eduard Xatruch",
+      "precio_medio_menu": "€€€€",
+      "numero_estrellas": 2,
+      "fechas_obtencion_estrellas_michelin": {
+        "primera": "2015",
+        "segunda": "2017",
+        "tercera": ""
+      },
+      "fecha_obtencion_soles_repsol": {
+        "primero": "2015",
+        "segundo": "2017",
+        "tercero": ""
+      },
+      "numero_soles_repsol": 3,
+      "plato_mas_representativo": "Espárragos blancos con huevas de salmón y encurtidos",
+      "otros_galardones_gastronomicos": ["Mejor Nuevo Restaurante de Europa 2015", "Premio al Restaurante Revelación 2014"]
+    },
+    {
+      "nombre": "Azurmendi",
+      "ciudad": "Larrabetzu",
+      "provincia": "Vizcaya",
+      "comunidad_autonoma": "País Vasco",
+      "dirección": "Corredor del Txorierri, s/n, 48195 Larrabetzu, Vizcaya, España",
+      "teléfono": "+34 944 55 88 66",
+      "fecha_apertura": "2005",
+      "chef_ejecutivo": "Eneko Atxa",
+      "precio_medio_menu": "€€€€",
+      "numero_estrellas": 3,
+      "fechas_obtencion_estrellas_michelin": {
+        "primera": "2010",
+        "segunda": "2012",
+        "tercera": "2014"
+      },
+      "fecha_obtencion_soles_repsol": {
+        "primero": "2007",
+        "segundo": "2010",
+        "tercero": "2013"
+      },
+      "numero_soles_repsol": 3,
+      "plato_mas_representativo": "Cocochas de merluza al pil-pil",
+      "otros_galardones_gastronomicos": ["Mejor Restaurante de España 2018", "Mejor Restaurante del Mundo 2018"]
+    }
+  ]
+  
+  }

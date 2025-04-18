@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.header {
+  margin-bottom: 20px; /* Espacio entre el encabezado y la cuadrícula de tarjetas */
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-auto-rows: auto;
+  grid-gap: 20px;
+  justify-content: center;
+  max-width: 1200px; /* Opcional: Limitar el ancho del contenedor */
+}
+
+.card {
+  width: 100%;
+}
